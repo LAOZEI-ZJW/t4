@@ -12,7 +12,7 @@ public class AppTest {
 
     }
     @Test
-    public  void  test_subtract(){
+    public void test_subtract(){
 
         assertEquals(Calc.subtract(1,1),0);
 
